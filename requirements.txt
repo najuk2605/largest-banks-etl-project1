@@ -1,3 +1,5 @@
 request
 beautifulsoup4
 pandas
+sqlite3
+numpy
